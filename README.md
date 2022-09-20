@@ -24,3 +24,6 @@ https://github.com/amyxixin/ECE444-F2022-Lab1
 ![](images/Activity5a.png)
 ![](images/Activity5b.png)
 ![](images/Activity5c.png)
+
+**Activity 6**
+https://github.com/peterwang06/ECE444-F2022-EP
