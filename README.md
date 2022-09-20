@@ -11,3 +11,9 @@ Peter Wang
 **Activity 3**
 
 ![](images/Activity3.png)
+
+**Activity 4**
+
+https://github.com/amyxixin/ECE444-F2022-Lab1
+![](images/Activity4a.png)
+![](images/Activity4b.png)
