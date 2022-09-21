@@ -34,3 +34,7 @@ https://github.com/peterwang06/ECE444-F2022-EP
 ![](images/Activity7.png)
 ![](images/Activity7a.png)
 ![](images/Activity7b.png)
+
+**Activity 8**
+![](images/Activity8.png)
+![](images/Activity8a.png)
